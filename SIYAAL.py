@@ -441,7 +441,7 @@ class Main:
 	def old(self):
 		x = 111111111
 		xx = 999999999
-		idx = "100000" 
+		idx = "1000" 
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
 		try:
@@ -868,7 +868,7 @@ class Main:
 	def old2(self):
 		x = 1111111111
 		xx = 9999999999
-		idx = "10000" 
+		idx = "1000" 
 		os.system('clear');print(logo)
 		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
 		try:
