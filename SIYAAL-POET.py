@@ -425,7 +425,7 @@ class Main:
 			print("    SHUKRIYA🥰♥️")
 			exit()
 		elif syed in ["1", "01"]:
-			os.system("xdg-open https://www.tiktok.com/@uzairsiyal05?_t=8ZY1TQNWQdu&_r=1)
+			os.system("xdg-open https://www.facebook.com/profile.php?id=100036715806561&mibextid=ZbWKwL)
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    WHAT YOUR NAME)
